@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/umair123-droid/umairfarooq.git/static/css/main.f1078d2b.css",
+    "main.js": "/umair123-droid/umairfarooq.git/static/js/main.941070b3.js",
+    "static/media/graphicsDesigning.gif": "/umair123-droid/umairfarooq.git/static/media/graphicsDesigning.fdf33738ed0da559162f.gif",
+    "static/media/web.gif": "/umair123-droid/umairfarooq.git/static/media/web.ad707d4c263c692c209e.gif",
+    "static/media/digitalMarketing.gif": "/umair123-droid/umairfarooq.git/static/media/digitalMarketing.c9a88b5a2e8d1c0a93bb.gif",
+    "static/media/mobile.gif": "/umair123-droid/umairfarooq.git/static/media/mobile.844212e5874546dc1bf0.gif",
+    "static/media/omair.png": "/umair123-droid/umairfarooq.git/static/media/omair.77460bbe6ac371f16883.png",
+    "static/media/content.gif": "/umair123-droid/umairfarooq.git/static/media/content.77360c385a3223199b9a.gif",
+    "static/media/seo.gif": "/umair123-droid/umairfarooq.git/static/media/seo.36a6c75c1f31e4c5918a.gif",
+    "static/media/award.png": "/umair123-droid/umairfarooq.git/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/umair123-droid/umairfarooq.git/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/umair123-droid/umairfarooq.git/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/umair123-droid/umairfarooq.git/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/umair123-droid/umairfarooq.git/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/umair123-droid/umairfarooq.git/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/umair123-droid/umairfarooq.git/index.html",
+    "main.f1078d2b.css.map": "/umair123-droid/umairfarooq.git/static/css/main.f1078d2b.css.map",
+    "main.941070b3.js.map": "/umair123-droid/umairfarooq.git/static/js/main.941070b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1078d2b.css",
+    "static/js/main.941070b3.js"
+  ]
+}
