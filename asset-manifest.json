@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/umair123-droid/umairfarooq/static/css/main.f1078d2b.css",
-    "main.js": "/umair123-droid/umairfarooq/static/js/main.73127b99.js",
-    "static/media/graphicsDesigning.gif": "/umair123-droid/umairfarooq/static/media/graphicsDesigning.fdf33738ed0da559162f.gif",
-    "static/media/web.gif": "/umair123-droid/umairfarooq/static/media/web.ad707d4c263c692c209e.gif",
-    "static/media/digitalMarketing.gif": "/umair123-droid/umairfarooq/static/media/digitalMarketing.c9a88b5a2e8d1c0a93bb.gif",
-    "static/media/mobile.gif": "/umair123-droid/umairfarooq/static/media/mobile.844212e5874546dc1bf0.gif",
-    "static/media/omair.png": "/umair123-droid/umairfarooq/static/media/omair.77460bbe6ac371f16883.png",
-    "static/media/content.gif": "/umair123-droid/umairfarooq/static/media/content.77360c385a3223199b9a.gif",
-    "static/media/seo.gif": "/umair123-droid/umairfarooq/static/media/seo.36a6c75c1f31e4c5918a.gif",
-    "static/media/award.png": "/umair123-droid/umairfarooq/static/media/award.a796a64fbb78cc3a9666.png",
-    "static/media/address.png": "/umair123-droid/umairfarooq/static/media/address.a01cb8cc428702f30bec.png",
-    "static/media/email.png": "/umair123-droid/umairfarooq/static/media/email.a49e015815e3ac6d2bd3.png",
-    "static/media/sun.png": "/umair123-droid/umairfarooq/static/media/sun.f794832ad72b90c61eb7.png",
-    "static/media/phone.png": "/umair123-droid/umairfarooq/static/media/phone.d90a6d23cf5129d853bb.png",
-    "static/media/moon.png": "/umair123-droid/umairfarooq/static/media/moon.3bea3d398a25611d421b.png",
-    "index.html": "/umair123-droid/umairfarooq/index.html",
-    "main.f1078d2b.css.map": "/umair123-droid/umairfarooq/static/css/main.f1078d2b.css.map",
-    "main.73127b99.js.map": "/umair123-droid/umairfarooq/static/js/main.73127b99.js.map"
+    "main.css": "/umairfarooq/static/css/main.f1078d2b.css",
+    "main.js": "/umairfarooq/static/js/main.d6db38bb.js",
+    "static/media/graphicsDesigning.gif": "/umairfarooq/static/media/graphicsDesigning.fdf33738ed0da559162f.gif",
+    "static/media/web.gif": "/umairfarooq/static/media/web.ad707d4c263c692c209e.gif",
+    "static/media/digitalMarketing.gif": "/umairfarooq/static/media/digitalMarketing.c9a88b5a2e8d1c0a93bb.gif",
+    "static/media/mobile.gif": "/umairfarooq/static/media/mobile.844212e5874546dc1bf0.gif",
+    "static/media/omair.png": "/umairfarooq/static/media/omair.77460bbe6ac371f16883.png",
+    "static/media/content.gif": "/umairfarooq/static/media/content.77360c385a3223199b9a.gif",
+    "static/media/seo.gif": "/umairfarooq/static/media/seo.36a6c75c1f31e4c5918a.gif",
+    "static/media/award.png": "/umairfarooq/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/umairfarooq/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/umairfarooq/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/umairfarooq/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/umairfarooq/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/umairfarooq/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/umairfarooq/index.html",
+    "main.f1078d2b.css.map": "/umairfarooq/static/css/main.f1078d2b.css.map",
+    "main.d6db38bb.js.map": "/umairfarooq/static/js/main.d6db38bb.js.map"
   },
   "entrypoints": [
     "static/css/main.f1078d2b.css",
-    "static/js/main.73127b99.js"
+    "static/js/main.d6db38bb.js"
   ]
 }
